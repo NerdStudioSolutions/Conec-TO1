@@ -12,10 +12,10 @@ https://github.com/codigosChidosFunLog/LoginGoogle
 [YouTube](https://www.facebook.com/Conec-TO-101151638242651)
 ## Autores ✒️
 
-* **Osvaldo Resendiz Resendiz** - *developer* - [nerdstudio](https://github.com/NerdStudioSolutions)
-* **Jose Jaime Rodriguez Pedraza** - *developer* - [badcode](https://github.com/rpjosejaime)
-* **Martin Juarez Remirez** - *developer* - [codigosChidosFunLog](https://github.com/codigosChidosFunLog)
-* **Maria fernanda Mejia Chavez** - *developer* 
+* **ING. Osvaldo Resendiz Resendiz** - *developer* - [nerdstudio](https://github.com/NerdStudioSolutions)
+* **ING. Jose Jaime Rodriguez Pedraza** - *developer* - [badcode](https://github.com/rpjosejaime)
+* **ING. Martin Juarez Remirez** - *developer* - [codigosChidosFunLog](https://github.com/codigosChidosFunLog)
+* **ING. Maria fernanda Mejia Chavez** - *developer* 
 
 ---
 ⌨️ con ❤️ por el equipo [conec-TO](https://www.facebook.com/Conec-TO-101151638242651) 😊
