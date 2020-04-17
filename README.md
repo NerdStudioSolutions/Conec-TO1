@@ -14,7 +14,7 @@ https://github.com/codigosChidosFunLog/LoginGoogle
 
 * **ING. Osvaldo Resendiz Resendiz** - *developer* - [nerdstudio](https://github.com/NerdStudioSolutions)
 * **ING. Jose Jaime Rodriguez Pedraza** - *developer* - [badcode](https://github.com/rpjosejaime)
-* **ING. Martin Juarez Remirez** - *developer* - [codigosChidosFunLog](https://github.com/codigosChidosFunLog)
+* **ING. Martin Juarez Remirez** - *developer* - [martinJxrez](https://github.com/martinJxrez)
 * **ING. Maria fernanda Mejia Chavez** - *developer* 
 
 ---
